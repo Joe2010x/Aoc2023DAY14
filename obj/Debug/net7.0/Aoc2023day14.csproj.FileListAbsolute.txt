@@ -1,0 +1,15 @@
+/Users/joesun/piktiv/Aoc2023/Aoc2023day14/obj/Debug/net7.0/Aoc2023day14.csproj.AssemblyReference.cache
+/Users/joesun/piktiv/Aoc2023/Aoc2023day14/obj/Debug/net7.0/Aoc2023day14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joesun/piktiv/Aoc2023/Aoc2023day14/obj/Debug/net7.0/Aoc2023day14.AssemblyInfoInputs.cache
+/Users/joesun/piktiv/Aoc2023/Aoc2023day14/obj/Debug/net7.0/Aoc2023day14.AssemblyInfo.cs
+/Users/joesun/piktiv/Aoc2023/Aoc2023day14/obj/Debug/net7.0/Aoc2023day14.csproj.CoreCompileInputs.cache
+/Users/joesun/piktiv/Aoc2023/Aoc2023day14/bin/Debug/net7.0/Aoc2023day14
+/Users/joesun/piktiv/Aoc2023/Aoc2023day14/bin/Debug/net7.0/Aoc2023day14.deps.json
+/Users/joesun/piktiv/Aoc2023/Aoc2023day14/bin/Debug/net7.0/Aoc2023day14.runtimeconfig.json
+/Users/joesun/piktiv/Aoc2023/Aoc2023day14/bin/Debug/net7.0/Aoc2023day14.dll
+/Users/joesun/piktiv/Aoc2023/Aoc2023day14/bin/Debug/net7.0/Aoc2023day14.pdb
+/Users/joesun/piktiv/Aoc2023/Aoc2023day14/obj/Debug/net7.0/Aoc2023day14.dll
+/Users/joesun/piktiv/Aoc2023/Aoc2023day14/obj/Debug/net7.0/refint/Aoc2023day14.dll
+/Users/joesun/piktiv/Aoc2023/Aoc2023day14/obj/Debug/net7.0/Aoc2023day14.pdb
+/Users/joesun/piktiv/Aoc2023/Aoc2023day14/obj/Debug/net7.0/Aoc2023day14.genruntimeconfig.cache
+/Users/joesun/piktiv/Aoc2023/Aoc2023day14/obj/Debug/net7.0/ref/Aoc2023day14.dll
